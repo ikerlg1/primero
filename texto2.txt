@@ -1,3 +1,7 @@
 editando el 2
+<<<<<<< HEAD
 por la rama2
 por la rama 3
+=======
+por la rama2
+>>>>>>> rama3
